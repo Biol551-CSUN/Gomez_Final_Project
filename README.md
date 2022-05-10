@@ -1,11 +1,11 @@
 # Gomez_Final_Project
 
 ## seewave GUI: an user interface for bioacoustics (development version)
->### Go Matadors!!
->![a](https://drive.google.com/file/d/1Hw-LmiUW5TKh8FSTv9sXw1Lv0zL6v0mm/preview" width="640" height="480" allow="autoplay")
+>### Preview
+>![a](https://drive.google.com/uc?export=view&id=1Hw-LmiUW5TKh8FSTv9sXw1Lv0zL6v0mm)
 
 
-###[seewave GUI](https://diegryllid.shinyapps.io/seewaveGUI/)
+### [click to open the app](https://diegryllid.shinyapps.io/seewaveGUI/)
 
 #### Author: Diego A. Gomez-Morales
 
