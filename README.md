@@ -5,7 +5,7 @@
 >![a](https://drive.google.com/uc?export=view&id=1Hw-LmiUW5TKh8FSTv9sXw1Lv0zL6v0mm)
 
 
-### [click to open the app](https://diegryllid.shinyapps.io/seewaveGUI/)
+### [click to open in shinyapps.io](https://diegryllid.shinyapps.io/seewaveGUI/)
 
 #### Author: Diego A. Gomez-Morales
 
