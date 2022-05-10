@@ -9,7 +9,7 @@
 
 #### Author: Diego A. Gomez-Morales
 
-seewave GUI is an user interface for generating publishing-ready, high quality visualizations of soundwaves for bioacoustics.
+seewave GUI is an user interface for generating publishing-ready, high quality visualizations of soundwaves (WAV) for bioacoustics.
 
 This is a preliminar version of an app made using Shiny.
 
