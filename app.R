@@ -55,7 +55,7 @@ ui <-
                         #step = 0.01,
                         #ticks = F)
             #,
-            conditionalPanel(
+            conditionalPanel( #panel dependant of input
                 condition = "input.graph == 'Spectrogram' || input.graph == 'Power Spectrum (average)'",
                 selectInput("wn", "Window:", c("Bartlett" = "bartlett",
                                                "Blackman" = "blackman",
