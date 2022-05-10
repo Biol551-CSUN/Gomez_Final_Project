@@ -23,4 +23,8 @@ The app allows rendering three types of plots:
 
 Every plot can be customized with default themes (white, dark), or with a custom theme (including color and palette selectors) with the interactive panel.
 
+**Contents:**  
+This repository contains the Shiny R code in a single .R file:
+* app.R
+
 This repossitory fulfills educational purposes only.
